@@ -7,7 +7,10 @@ When I'm not immersed in the digital realm as a student at Poznan University of 
 Join me in this symphony of innovation, where every keystroke is a note of creativity, and together, we'll waltz through the wonderful world of code, cats, and creativity! 🚀🐱🎨
 
 ## Projects
+[![Portfolio-banner](assets/portfolio.jpg)](https://www.adamjalocha.pl/)
+
 [![Emotion-banner](assets/emotion.jpg)](https://emotion.miami/)
+
 
 
 
