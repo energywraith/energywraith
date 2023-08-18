@@ -8,9 +8,7 @@ Join me in this symphony of innovation, where every keystroke is a note of creat
 
 ## Projects 🐱
 [![Portfolio-banner](assets/portfolio.jpg)](https://www.adamjalocha.pl/)
-
 [![Emotion-banner](assets/emotion.jpg)](https://emotion.miami/)
-
 [![Repositories-banner](assets/repositories.jpg)](https://github.com/energywraith?tab=repositories)
 
 
