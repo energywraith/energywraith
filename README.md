@@ -9,12 +9,16 @@ Join me in this symphony of innovation, where every keystroke is a note of creat
 ## Skills ⚡
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,scss,styledcomponents,wordpress,figma,git,stackoverflow&perline=4)
 
+## Featured Project ✨
+[![Emotion-banner](assets/emotion.jpg)](https://emotion.miami/)
+
+<!--
 ## Projects 🐱
 [![Portfolio-banner](assets/portfolio.jpg)](https://www.adamjalocha.pl/)
 [![Emotion-banner](assets/emotion.jpg)](https://emotion.miami/)
 [![Webinamp-banner](assets/web-winamp.jpg)](https://winamp.vercel.app/)
 [![Repositories-banner](assets/repositories.jpg)](https://github.com/energywraith?tab=repositories)
-
+-->
 
 
 <!--
