@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there, I'm Adam 👋
 
-I'm Adam, a JavaScript and TypeScript virtuoso who crafts captivating experiences with front end technologies.
-
-When I'm not immersed in the digital realm as a student at Poznan University of Technology, you'll find me capturing life's moments through the lens or in the company of my feline friends.
-
-Join me in this symphony of innovation, where every keystroke is a note of creativity, and together, we'll waltz through the wonderful world of code, cats, and creativity! 🚀🐱🎨
+- Front-end Developer with over 3 years of experience across diverse projects, including notable contributions to hospitals (HSS) and esteemed companies like Fingoweb and Trol.
+- Successfully created impactful User Interfaces for RIIP REPS at HSS, recognized as the world's premier orthopedic hospital in the USA. Contributed to enhanced user engagement and efficiency.
+- Proficient in TypeScript, React, Next.js, Vue with a passion for staying updated on emerging trends.
+- Actively pursue continuous learning of new technologies and best UI/UX practices.
+- Engage in personal projects like emotion.miami and contribute to local community activities, creating designs for events like Drugie Życie (portfolio available at adamjalocha.pl).
 
 ## Skills ⚡
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,scss,styledcomponents,wordpress,figma,git,stackoverflow&perline=4)
