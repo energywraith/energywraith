@@ -1,10 +1,8 @@
 # Hi there, I'm Adam 👋
 
-- Front-end Developer with over 3 years of experience across diverse projects, including notable contributions to hospitals (HSS) and esteemed companies like Fingoweb and Trol.
-- Successfully created impactful User Interfaces for RIIP REPS at HSS, recognized as the world's premier orthopedic hospital in the USA. Contributed to enhanced user engagement and efficiency.
-- Proficient in TypeScript, React, Next.js, Vue with a passion for staying updated on emerging trends.
-- Actively pursue continuous learning of new technologies and best UI/UX practices.
-- Engage in personal projects like emotion.miami and contribute to local community activities, creating designs for events like Drugie Życie (portfolio available at [adamjalocha.pl](https://www.adamjalocha.pl/)).
+🚀 Hey there! I'm a Front-End Dev with 3+ years of experience. Worked on cool stuff for hospitals (HSS) and companies like Fingoweb and Trol.<br />
+💻 Fluent in the language of web development, whether it's TypeScript, React, Next.js, Vue, or any other tech du jour. Always riding the wave of new trends. <br/>
+📚 Constantly learning, geeking out on tech. Also, cooking up personal projects like [Emotion 98.3](https://emotion.miami/) and adding flair to local events like Drugie Życie. Check out my creations at [adamjalocha.pl](https://www.adamjalocha.pl/)!
 
 ## Skills ⚡
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,scss,styledcomponents,wordpress,figma,git,stackoverflow&perline=4)
