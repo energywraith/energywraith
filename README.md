@@ -1,8 +1,8 @@
 # Hi there, I'm Adam 👋
 
-🚀 Hey there! I'm a Front-End Dev with 3+ years of experience. Worked on cool stuff for hospitals (HSS) and companies like Fingoweb and Trol.<br />
-💻 Fluent in the language of web development, whether it's TypeScript, React, Next.js, Vue, or any other tech du jour. Always riding the wave of new trends. <br/>
-📚 Constantly learning, geeking out on tech. Also, cooking up personal projects like [Emotion 98.3](https://emotion.miami/) and adding flair to local events like Drugie Życie. Check out my creations at [adamjalocha.pl](https://www.adamjalocha.pl/)!
+Software Engineer with 3+ years of experience building scalable, reliable systems across the stack.<br />
+Currently at The BitByBit Company, developing ground segment software for the European Space Agency.<br />
+Co-Founder of Emotion.miami — a digital tribute to the aesthetics and spirit of 1980s Miami, blending modern web technologies with retro design principles.<br />
 
 ## Skills ⚡
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,scss,styledcomponents,wordpress,figma,git,stackoverflow&perline=4)
