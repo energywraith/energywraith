@@ -8,7 +8,7 @@ Co-Founder of Emotion.miami — a digital tribute to the aesthetics and spirit o
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,scss,styledcomponents,wordpress,figma,git,stackoverflow&perline=4)
 
 ## Featured Project ✨
-[![Emotion-banner](assets/emotion.jpg)](https://emotion.miami/)
+[![Emotion-banner](assets/emotion.jpg)](https://vanture.club/)
 
 <!--
 ## Projects 🐱
